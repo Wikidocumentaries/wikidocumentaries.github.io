@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin: 0px;
+}
+
+.palkki {
+	color: #FFF;
+	text-decoration: none;
+	background-color: #999;
+	height: 40px;
+	width: 100%;
+	line-height: 40px;
+	font-size:12px;
+}
+.palkki a {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #FFF;
+	text-decoration: none;
+	margin-left: 20px;
+}
+
+.palkki a:hover {
+	text-decoration:underline;
+}
