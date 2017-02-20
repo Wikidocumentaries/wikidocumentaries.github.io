@@ -93,12 +93,10 @@ Isto Huvila, professori
 
 
 ## Olemme täällä / Find us
-Facebook: facebook.com/groups/wikidocumentaries/
-Twitter: @wikidocumentary
-Slack: wikidocumentaries.slack.com/
-YouTube: wikidocumentaries channel
-GitHub: github.com/Wikidocumentaries/
-Web: wikidocumentaries.github.io/
-Wiki: wikidocumentaries.wmflabs.org/
-
-http://wikidocumentaries.github.io.
+- Facebook: https://facebook.com/groups/wikidocumentaries/
+- Twitter: @wikidocumentary
+- Slack: https://wikidocumentaries.slack.com/
+- YouTube: https://wikidocumentaries channel
+- GitHub: https://github.com/Wikidocumentaries/
+- Web: http://wikidocumentaries.github.io/
+- Wiki: https://wikidocumentaries.wmflabs.org/
