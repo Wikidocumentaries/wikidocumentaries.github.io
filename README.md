@@ -8,6 +8,11 @@ Here you can find information about the Wikidocumentaries project (in English)
 ## Esimerkkejä / Examples
 [examples](http://wikidocumentaries.github.io/examples)
 
+## Tiimi / Team
+Susanna Ånäs, Niklas Laxström, Eetu Mäkelä, Vahur Puik, Heidi Laine
+
+**Advisors in the team** professor Anu Lahtinen, associate professor Visa Immonen, Thomas Aigner / ICARUS, Marianne Wiig / Lokalhistoriewiki.no, Lars Lundqvist
+
 ## Kumppanit / Partners
 
 Organisaatio | yhteistyön muoto | henkilö
