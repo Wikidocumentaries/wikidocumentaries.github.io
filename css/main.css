@@ -1,7 +1,13 @@
 font-family: 'Work Sans', sans-serif;
 
 h1, h2, h3, h4{
-	font-family:'Work Sans';
 	text-transform: uppercase;
 	letter-spacing: 1px;
+}
+
+.basic {
+	font-family:'Work Sans';
+	left: 20%;
+	width:60%;
+	position: relative;
 }
