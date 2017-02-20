@@ -3,7 +3,7 @@ Tietoa Mikrohistoriawiki-projektista (suomeksi)
 * [Hakemus Kordelinin säätiön suuret kulttuuriprojektit-hakuun] (https://docs.google.com/document/d/1B5ETmiFi2se2sGqlR_NsoXU4lth3LfX2SEIV-m2rNiM/edit)
 
 Here you can find information about the Wikidocumentaries project (in English)
-[* Wikidocumentaries - microhistory wiki for small history] (https://docs.google.com/presentation/d/1TPCHp8Vp8itVTfrQ0uPr9S3tQnVKgdwuZx_RLgsih_8/edit?usp=sharing)
+* [Wikidocumentaries - microhistory wiki for small history] (https://docs.google.com/presentation/d/1TPCHp8Vp8itVTfrQ0uPr9S3tQnVKgdwuZx_RLgsih_8/edit?usp=sharing)
 
 ## Esimerkkejä / Examples
 [examples](http://wikidocumentaries.github.io/examples)
