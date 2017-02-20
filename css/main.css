@@ -20,3 +20,12 @@ h1, h2, h3, h4{
 	text-transform: uppercase;
 	letter-spacing: 1px;
 }
+a {
+	color: #888;
+	border-bottom: 1px solid #888;
+	text-decoration: none;
+}
+
+a:hover {
+	color:#000;
+}
