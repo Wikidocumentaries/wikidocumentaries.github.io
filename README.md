@@ -1,7 +1,7 @@
 # wikidocumentaries.github.io
-Tietoa Mikrohistoriawiki-projektista
+Tietoa Mikrohistoriawiki-projektista / Here you can find information about the Wikidocumentaries project
+- Wikidocumentaries - microhistory wiki for small history https://docs.google.com/presentation/d/1TPCHp8Vp8itVTfrQ0uPr9S3tQnVKgdwuZx_RLgsih_8/edit?usp=sharing
 
-Here you can find information about the Wikidocumentaries project
 
 ## Kumppanit / Partners
 
