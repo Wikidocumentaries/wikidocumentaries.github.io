@@ -38,7 +38,7 @@ a:hover {
 }
 
 .laatikko {
-	width: 300px;
+	width: 280px;
 	flex: none;
 	display: flex;
 	flex-direction: column;
