@@ -35,13 +35,14 @@ a:hover {
 	display: flex;
 	flex-direction: row;
 	flex-wrap: wrap;
+	padding:5px;
 }
 
 .kaksi {
 	width: 50%;
 	flex: none;
 	display: flex;
-	flex-direction: column;
+	margin:5px;
 }
 
 .laatikko {
@@ -50,6 +51,7 @@ a:hover {
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
+	margin:5px;
 }
 
 .laatikkokuva {
