@@ -37,6 +37,13 @@ a:hover {
 	flex-wrap: wrap;
 }
 
+.kaksi {
+	width: 50%;
+	flex: none;
+	display: flex;
+	flex-direction: column;
+}
+
 .laatikko {
 	width: 280px;
 	flex: none;
