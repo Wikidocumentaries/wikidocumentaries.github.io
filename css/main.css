@@ -39,14 +39,14 @@ a:hover {
 }
 
 .kaksi {
-	width: 50%;
+	width: 45%;
 	flex: none;
 	display: flex;
 	margin:5px;
 }
 
 .laatikko {
-	width: 280px;
+	width: 270px;
 	flex: none;
 	display: flex;
 	flex-direction: column;
