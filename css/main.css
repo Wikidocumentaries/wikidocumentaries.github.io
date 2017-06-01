@@ -30,3 +30,21 @@ a {
 a:hover {
 	color:#000;
 }
+
+.kontti {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.laatikko {
+	width: 300px;
+	flex: none;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+}
+
+.laatikkokuva {
+	flex: 1;
+}
