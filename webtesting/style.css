@@ -1,0 +1,99 @@
+
+@font-face {
+  font-family: 'WikiFont';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://github.com/wikimedia/WikiFont/blob/master/WikiFont-Glyphs.woff2) format('woff2');
+}
+
+body {
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 11pt;
+	line-height: 1.5;
+	color:#333;
+	font-weight:400;
+}
+
+a {
+	text-decoration: none;
+    color: #0d89d6;
+    background: none;
+}
+
+a:hover {
+	text-decoration:underline;
+	color: #333;
+}
+
+.toolbar {
+	font-family: 'Barlow Condensed', sans-serif;
+    background-color: #8e8e8e;
+    color: white;
+    padding: 6px 12px;
+    text-transform: uppercase;
+    font-size: 1.4em;
+}
+
+.main {
+	border-bottom: 10px solid grey;
+	background-color: initial;
+    color: #8e8e8e;
+}
+
+.neg {
+    background-color: #FFF;
+    color: #8e8e8e;
+    /*border: 1px solid #8e8e8e;*/
+}
+
+.text {
+	padding:0 12px;
+}
+
+.text p {
+	margin: 12px 0;
+}
+
+.images_content {
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.thumbcontainer {
+}
+
+.thumbimage {
+}
+
+i {
+    font-size: 24px;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+}
+
+.column {
+	display: flex;
+	flex-direction: column;
+}
+
+.two {
+	flex: 0 1 66%;
+}
+
+.one {
+	flex: 1 1 34%;
+}
+
+.topic_header {
+	height:400px;
+	overflow: hidden;
+	background:url(https://i.pinimg.com/originals/93/2f/46/932f464399b7288c768dd57820a3e743.jpg) no-repeat center center;
+	background-size: cover;
+}
+
+.header_media {
+}
