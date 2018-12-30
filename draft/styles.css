@@ -256,6 +256,45 @@ i {
   visibility: visible;  
 }
 
+.step-right {
+    background: linear-gradient(270deg, rgba(0, 0, 0, 0.3) 0%, rgba(0,0,0,0.2) 50%, rgba(0, 0, 0, 0) 100%);
+    height: 100%;
+    position: absolute;
+    right: 0;
+    top: 0;
+    opacity: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step-left {
+    background: linear-gradient(90deg, rgba(0, 0, 0, 0.3) 0%, rgba(0,0,0,0.2) 50%, rgba(0, 0, 0, 0) 100%);
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.step-right:hover {
+  opacity: 1;
+}
+
+.step-left:hover {
+  opacity: 1;
+}
+
+.step-glyph {
+  font-size: 60px;
+  padding: 20px;
+}
+
 .titlebox-subtitle a {
 	color: white;
 }
