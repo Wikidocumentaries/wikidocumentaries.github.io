@@ -50,5 +50,4 @@ Yle Arkisto | aineisto, työpajat, valokuvien paikantaminen, Hack4FI | Tuomas No
 - Slack: https://wikidocumentaries.slack.com/
 - YouTube: wikidocumentaries channel
 - GitHub: https://github.com/Wikidocumentaries/
-- Web: http://wikidocumentaries.github.io/
 - Wiki: https://wikidocumentaries.wmflabs.org/
