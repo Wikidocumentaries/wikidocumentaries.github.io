@@ -284,10 +284,12 @@ i {
 
 .step-right:hover {
   opacity: 1;
+  cursor: pointer;
 }
 
 .step-left:hover {
   opacity: 1;
+  cursor: pointer;
 }
 
 .step-glyph {
