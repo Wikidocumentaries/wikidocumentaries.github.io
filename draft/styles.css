@@ -6,7 +6,7 @@
   --main-yellow: #ffd76e;
   --main-orange: #ea8e43;
   --main-red: #cf412d;
-  /* --main-red: #C04822; */
+  /*--main-red: #C04822; */
   --main-purple: #a74e77;
   --main-blue: #00abd6;
   --main-green: #69a656;
@@ -46,12 +46,19 @@ i {
   height: 100vh;
 }
 
+.headline {
+  font-family: 'Roboto Condensed', sans-serif;
+  color: #333;
+  text-transform: uppercase;
+}
+
 .main-toolbar {
   display: -ms-flexbox;
   height: 40px;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-left: 20px;
 }
 
 .main-toolbar-over {
@@ -67,8 +74,8 @@ i {
 }
 
 .toolbartitle {
-  text-transform: uppercase;
-  font-weight: bold;
+  font-size: 1.3em;
+  color: white;
 }
 
 .toolbaricon {
@@ -82,8 +89,8 @@ i {
 }
 
 .toolbaricon:hover {
-  background: var(--main-txt-color);
-  color: white;
+    background: white;
+    color: var(--main-txt-color);
 }
 
 .stripe {
@@ -102,21 +109,18 @@ i {
 .absolute-right {
   text-align: right;
   height: 45px;
-  margin-right: 20px;
   box-sizing: border-box;
 }
 
 .left-align {
     display: flex;
-    margin-left: 20px;
 }
 
 .right-align {
     display: flex;
-    margin-right: 20px;
-    height: 40px;
     float: right;
     clear: both;
+    align-items: center;
 }
 
 .stroke {
@@ -186,6 +190,41 @@ i {
   background-color: var(--main-green);
 }
 
+.topshade {
+  position: absolute;
+	width: 100%;
+	left: 0px;
+	right: 0px;
+	top: 0px;
+	background: linear-gradient(180deg, rgba(0, 0, 0, 0.4) 0%, rgba(0,0,0,0.3) 50%, rgba(0, 0, 0, 0) 100%);
+}
+.top-info {
+  display: flex;
+  margin: 15px;
+  justify-content: space-between;
+}
+
+.neg {
+  color: white;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
+.info-title {
+  font-size: 3vw;
+	font-weight: bold;
+	line-height: 1em;
+	margin-bottom: 5px;
+}
+
+.info-subtitle {
+  font-size: 1.7vw;
+	font-weight: bold;
+	line-height: 1.5em;
+}
+
 .bottomshade {
 	position: absolute;
 	width: 100%;
@@ -196,26 +235,25 @@ i {
 }
 
 .titlebox {
-	font-weight: bold;
-	color: #fff;
 	margin-left: 20px;
 	padding: 30px 0 15px;
 }
 
 .titlebox-title {
 	font-size: 3.5vw;
+	font-weight: bold;
 	line-height: 1em;
 	margin-bottom: 5px;
 }
 
 .titlebox-subtitle {
 	font-size: 2vw;
+	font-weight: bold;
 	line-height: 1.5em;
 }
 
 .titlebox-tool {
-  color: white;
-  margin: 15px;
+  margin: 30px 15px 15px;
 }
 
 .titlebox-tool-title {
@@ -426,12 +464,13 @@ i {
 
 .tool-main {
   display: flex;
-  height: calc(100vh - 50px);
+  height: calc(100vh - 40px);
 }
 
 .tool-menu {
   flex: 0 0 200px;
   background: var(--main-txt-color);
+  padding-top: 10px;
 }
 
 .tool-menu-item {
@@ -480,7 +519,7 @@ i {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  border-left: 10px var(--main-yellow) solid;
+  padding: 0 20px 0 15px;
 }
 
 .help-text {
@@ -489,7 +528,7 @@ i {
 
 .button {
   font-weight: bold;
-  min-width: 100px;
+  min-width: 120px;
   background: var(--main-link-color);
   margin-left: 10px;
   min-height: 35px;
