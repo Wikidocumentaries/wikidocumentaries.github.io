@@ -239,6 +239,10 @@ i {
 	padding: 30px 0 15px;
 }
 
+.white {
+  color: white;
+}
+
 .titlebox-title {
 	font-size: 3.5vw;
 	font-weight: bold;
