@@ -291,11 +291,12 @@ i {
   width: 100%;
   top: 0;
   height: calc(100vh - 18px);
-  visibility: hidden;
+  opacity: 0;
+  transition: opacity 500ms;
 }
 
 .contentarea:hover .viewer-contents {
-  visibility: visible;  
+  opacity: 1;  
 }
 
 .step-right {
