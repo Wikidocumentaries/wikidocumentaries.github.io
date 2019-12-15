@@ -4,7 +4,8 @@ Wikidocumentariesin raportti Koneen säätiölle ja Museoviraston Europe for Cul
 
 
 ## Tiimi / Team
-Susanna Ånäs, Niklas Laxström, Eetu Mäkelä, Vahur Puik, Heidi Laine
+Erno Mäkinen, Tuukka Hastrup, Mikko Rinne, Susanna Ånäs
+Kiitos myös Niklas Laxström, Eetu Mäkelä, Vahur Puik ja Heidi Laine
 
 **Advisors in the team** professor Anu Lahtinen, associate professor Visa Immonen, Thomas Aigner / ICARUS, Marianne Wiig / Lokalhistoriewiki.no, Lars Lundqvist
 
